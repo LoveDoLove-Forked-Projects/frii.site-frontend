@@ -46,7 +46,7 @@
 		"tw-animate-css": "^1.3.4",
 		"typescript": "^5.0.0",
 		"unplugin-icons": "^22.1.0",
-		"vite": "^6.0.0",
+		"vite": "^6.4.1",
 		"vite-plugin-devtools-json": "^1.0.0"
 	},
 	"type": "module",
